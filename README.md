@@ -1,6 +1,16 @@
 # learning-vue
 My personal repository for learning vuejs, also vuetify, vuex, vue-router and other things related to vuejs. I't just for making tests, trying things, etc.
 
+## Comands runned to create this project:
+ ```
+ npm vue new learning-vue
+ cd learning-vue
+ vue add vuetify
+ vue add vuex
+ vue add router
+ vue add pug
+ ```
+
 ## Project setup
 ```
 npm install
